@@ -1,3 +1,4 @@
+/*Copyright [2024] <Yongyi Wang>*/
 #include "Department.h"
 #include "Course.h"
 #include <map>

@@ -1,3 +1,4 @@
+/*Copyright [2024] <Yongyi Wang>*/
 #include <gtest/gtest.h>
 #include "Course.h" 
 
