@@ -1,3 +1,4 @@
+/*Copyright [2024] <Yongyi Wang>*/
 #include "Course.h"
 #include <iostream>
 #include <string>

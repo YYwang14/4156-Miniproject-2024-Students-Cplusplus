@@ -1,14 +1,15 @@
-#include "crow.h"
+/*Copyright [2024] <Yongyi Wang>*/
+#include <iostream>
+#include <map>
+#include <string>
+#include <csignal>
+#include "../external_libraries/Crow-master/include/crow.h"
 #include "Course.h"
 #include "Department.h"
 #include "MyFileDatabase.h"
 #include "RouteController.h"
 #include "Globals.h"
 #include "MyApp.h"
-#include <iostream>
-#include <map>
-#include <string>
-#include <csignal>
 
 /**
  *  Method to handle proper termination protocols 

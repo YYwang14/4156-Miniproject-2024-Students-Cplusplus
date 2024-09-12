@@ -1,3 +1,4 @@
+/*Copyright [2024] <Yongyi Wang>*/
 #include "MyFileDatabase.h"
 #include <iostream>
 #include <fstream>
